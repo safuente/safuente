@@ -1,5 +1,5 @@
 - 👋Hi, I’m @safuente FullStack Software Developer.
-- 👀 I’m interested in Python, Javascript, SEO. Experience in Django, Flask and Angular frameworks.
+- 👀 I’m interested in Python, Javascript, SEO. Experience in Django, Flask, FastAPI and Angular frameworks.
 - 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on interesting Python and SEO projects.
 - 📫 Email: santiagoalvarez87@gmail.com 

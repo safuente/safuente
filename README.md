@@ -5,4 +5,6 @@
 - 📫 Email: santiagoalvarez87@gmail.com 
 - 📄 Linkedin: www.linkedin.com/in/santiago-álvarez-fuente-cv 
 - 🖌 Medium: https://santiagoalvarez87.medium.com/
+- SEO projects:
+https://coworkingcerca.com/
 

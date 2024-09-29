@@ -6,7 +6,7 @@
 - 📄 Linkedin: www.linkedin.com/in/santiago-álvarez-fuente-cv 
 - 🖌 Medium: https://santiagoalvarez87.medium.com/
 - AI projects:
-  Chatbot using GPT-4 in Python with frontend using Streamlit: https://github.com/safuente/simple-chatbot
+  * Chatbot using GPT-4 in Python with frontend using Streamlit: https://github.com/safuente/simple-chatbot
 - SEO projects:
 https://coworkingcerca.com/
 

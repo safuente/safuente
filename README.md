@@ -8,7 +8,9 @@
 - AI projects:
   * Chatbot using GPT-4 in Python with frontend using Streamlit: https://github.com/safuente/simple-chatbot
   * Web summarizer using gpt-4-mini with frontend using Steamlit: https://github.com/safuente/web-summarizer
+  * Web brochure creator for company sites using gpt-4-mini with frontend using Steamlit: https://github.com/safuente/web-brochure-creator
 - SEO projects:
 https://coworkingcerca.com/
+https://itvplayahonda.es/
 
 

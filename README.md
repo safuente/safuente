@@ -6,12 +6,4 @@
 - 📄 Linkedin: www.linkedin.com/in/santiago-álvarez-fuente-cv 
 - 🖌 Medium: https://santiagoalvarez87.medium.com/
 - Personal web page: https://safuente.com/
-- AI projects:
-  * Chatbot using GPT-4 in Python with Streamlit´s frontend: https://github.com/safuente/simple-chatbot
-  * Web summarizer using gpt-4-mini with Streamlit´s frontend: https://github.com/safuente/web-summarizer
-  * Web brochure creator for company sites using gpt-4-mini with Streamlit´s frontend: https://github.com/safuente/web-brochure-creator
-- SEO projects:
-https://coworkingcerca.com/
-https://itvplayahonda.es/
-
-
+- AI projects: https://safuente.com/ai-projects/

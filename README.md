@@ -55,15 +55,6 @@ Check out my AI experiments and projects → **[safuente.com/ai-projects](https:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safuente&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safuente&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 💬 Open to collaborating on **Python + AI + JS** and shipping projects.
